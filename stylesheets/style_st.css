@@ -374,7 +374,7 @@ background: rgba(0,0,0,0.6);
 	right:0;
 	top:100%;
 	bottom:0;
-	background-color:#ea2e2b;
+	background-color:#1e598b;
 	transition: all 0.3s ease-in-out; 
 	-webkit-transition: all 0.3s ease-in-out;
 }
@@ -1794,21 +1794,21 @@ svg.sland-bottom {
 .team-content h2
 {
 	font-family: "Open Sans";
-	color: #fff;
+	color: #000;
 	letter-spacing: 1px;
 	text-transform: uppercase;
 }
 .team-content h5
 {
 	font-family: "nexa_r";
-	color: #fff;
+	color: #000;
 	letter-spacing: 1px;
 }
 
 .team-content p
 {
 	font-family: "Open Sans";
-	color: #fff;
+	color: #000;
 	letter-spacing: 1px;
 	padding-top:10px;
 	line-height: 24px;
