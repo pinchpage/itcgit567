@@ -1,0 +1,65 @@
+/*
+@font-face{ font-family: 'nexa_b';
+  src: url('font/opensans_regular_macroman/OpenSans-Regular-webfont.eot');
+  src: url('font/opensans_regular_macroman/OpenSans-Regular-webfont.eot?iefix') format('eot'), 
+  url('font/opensans_regular_macroman/OpenSans-Regular-webfont.woff') format('woff'), 
+  url('font/opensans_regular_macroman/OpenSans-Regular-webfont.ttf') format('truetype'), 
+  url('font/opensans_regular_macroman/OpenSans-Regular-webfont.svg#webfont') format('svg')
+}
+@font-face{ font-family: 'nexa_r';
+  src: url('font/opensans_extrabolditalic_macroman/OpenSans-ExtraBoldItalic-webfont.eot');
+  src: url('font/opensans_extrabolditalic_macroman/OpenSans-ExtraBoldItalic-webfont.eot?iefix') format('eot'), 
+  url('font/opensans_extrabolditalic_macroman/OpenSans-ExtraBoldItalic-webfont.woff') format('woff'), 
+  url('font/opensans_extrabolditalic_macroman/OpenSans-ExtraBoldItalic-webfont.ttf') format('truetype'), 
+  url('font/opensans_extrabolditalic_macroman/OpenSans-ExtraBoldItalic-webfont.svg#webfont') format('svg')
+}*/
+
+@font-face {
+    font-family: 'nexa_b';
+    src: url('../font/nexa_b.eot');
+    src: url('..font/nexa_b.eot?#iefix') format('embedded-opentype'),
+         url('../font/nexa_b.woff2') format('woff2'),
+         url('../font/nexa_b.woff') format('woff'),
+         url('../font/nexa_b.ttf') format('truetype'),
+         url('../font/nexa_b.svg#nexa_boldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'nexa_r';
+    src: url('../font/nexa_r.eot');
+    src: url('../font/nexa_r.eot?#iefix') format('embedded-opentype'),
+         url('../font/nexa_r.woff2') format('woff2'),
+         url('../font/nexa_r.woff') format('woff'),
+         url('../font/nexa_r.ttf') format('truetype'),
+         url('../font/nexa_r.svg#nexa_lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+<!--
+@font-face{
+  font-family:'nexa_b';
+  src: url('../font/nexa_b.otf') format('opentype');
+}
+-->
+<!--[if IE]>
+<mce:style type="text/css" media="screen"><!
+@font-face{
+  font-family:'nexa_b';
+  src: url('../font/nexa_b.eot');
+}
+-->
+
+<!--
+@font-face{
+  font-family:'nexa_r';
+  src: url('../font/nexa_r.otf') format('opentype');
+}
+-->
+<!--[if IE]>
+<mce:style type="text/css" media="screen"><!
+@font-face{
+  font-family:'nexa_r';
+  src: url('../font/nexa_r.eot');
+}
+-->
