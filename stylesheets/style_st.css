@@ -11,7 +11,8 @@
 @font-face {
     font-family: 'defont';
     src: url('stylesheets/fonts/liar_script_-_ttf-webfont.woff2') format('woff2'),
-         url('stylesheets/fonts/liar_script_-_ttf-webfont.woff') format('woff');
+         url('stylesheets/fonts/liar_script_-_ttf-webfont.woff') format('woff')
+         url('stylesheets/fonts/liar_script_-_ttf-webfont.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 
@@ -1594,7 +1595,7 @@ display: inline-block;
 	font-size: 24px;
 	padding-bottom: 10px;
 	letter-spacing: 3px;
-	font-weight: normal;
+	font-weight: 600;
 	text-transform: uppercase;
 }
 .member-content p
