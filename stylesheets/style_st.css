@@ -7,6 +7,17 @@
 /*Version : 1.0*/
 
 /*////////////////////////////////////////////////////////////////////////////////////////////*/
+
+@font-face {
+    font-family: 'defont';
+    src: url('stylesheets/fonts/liar_script_-_ttf-webfont.woff2') format('woff2'),
+         url('stylesheets/fonts/liar_script_-_ttf-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
 .gap
 {
 	width: 100%;
@@ -1578,7 +1589,7 @@ display: inline-block;
 }
 .member-content h1
 {
-	font-family: "Open Sans";
+	font-family: "defont";
 	color: #1e598b;
 	font-size: 24px;
 	padding-bottom: 10px;
