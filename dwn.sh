@@ -7,4 +7,4 @@ wget \
      --restrict-file-names=windows \
      --domains website.org \
      --no-parent \
-         http://pixelglimpse.designova.net/star/i
+         http://pixelglimpse.designova.net/star/index-parallax.html
