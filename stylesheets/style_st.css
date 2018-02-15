@@ -10,9 +10,9 @@
 
 @font-face {
     font-family: 'defont';
-    src: url('fonts/liar_script_-_ttf-webfont.woff2') format('woff2'),
-         url('fonts/liar_script_-_ttf-webfont.woff') format('woff')
-         url('fonts/liar_script_-_ttf-webfont.ttf') format('ttf');
+    src: url('http://keen-hawking-d51224.netlify.com/stylesheets/fonts/liar_script_-_ttf-webfont.woff2') format('woff2'),
+         url('http://keen-hawking-d51224.netlify.com/stylesheets/fonts/liar_script_-_ttf-webfont.woff') format('woff')
+         url('http://keen-hawking-d51224.netlify.com/stylesheets/fonts/liar_script_-_ttf-webfont.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 
